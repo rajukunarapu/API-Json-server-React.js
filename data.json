@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Realme 10 pro",
+      "price": 20000,
+      "category": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "Lenevo i7 ryzon",
+      "price": 60000,
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "name": "mi smartTv 44inches",
+      "price": 25000,
+      "category": "tv"
+    }
+  ]
+}
